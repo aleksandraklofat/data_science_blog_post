@@ -19,4 +19,13 @@ For this project I analysed the AirBnB acommodation data for Berlin. The aim was
 
 ## File Description
 
+I used data avalaible on the official AirBnB website for Berlin: (http://insideairbnb.com/get-the-data.html)
+File name: listings.csv.gz (for the February 2019)
 
+## Results
+
+Results are published in the following post on Medium
+
+## Acknowledgments
+
+I used data avalaible on the official AirBnB webpage (http://insideairbnb.com/get-the-data.html). My analysis can be use freely. 
