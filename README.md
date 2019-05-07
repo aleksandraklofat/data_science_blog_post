@@ -30,8 +30,9 @@ Medium Blog post - So you want to visit Berlin?
 
 Results are published in the following post on Medium
 
-## Acknowledgments
+## Acknowledgments & Licence
 
 I used data avalaible on the official AirBnB webpage (http://insideairbnb.com/get-the-data.html). 
 I have also partially used original Udacity code for my project (see Jupyter Notebook).  
-My analysis can be used freely. 
+
+MIT Licence
