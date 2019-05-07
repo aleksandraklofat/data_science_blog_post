@@ -19,8 +19,12 @@ For this project I analysed the AirBnB acommodation data for Berlin. The aim was
 
 ## File Description
 
-I used data avalaible on the official AirBnB website for Berlin: (http://insideairbnb.com/get-the-data.html)
+AirBnB data for Berlin (http://insideairbnb.com/get-the-data.html)
 File name: listings.csv.gz (for the February 2019)
+
+Jupyter Notebook - AirBnB_Berlin_Blog_Analysis.ipynb
+
+Medium Blog post - So you want to visit Berlin? 
 
 ## Results
 
@@ -28,4 +32,6 @@ Results are published in the following post on Medium
 
 ## Acknowledgments
 
-I used data avalaible on the official AirBnB webpage (http://insideairbnb.com/get-the-data.html). My analysis can be use freely. 
+I used data avalaible on the official AirBnB webpage (http://insideairbnb.com/get-the-data.html). 
+I have also partially used original Udacity code for my project (see Jupyter Notebook).  
+My analysis can be used freely. 
