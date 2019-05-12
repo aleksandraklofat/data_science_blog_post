@@ -24,11 +24,11 @@ File name: listings.csv.gz (for the February 2019)
 
 Jupyter Notebook - AirBnB_Berlin_Blog_Analysis.ipynb
 
-Medium Blog post - So you want to visit Berlin? 
+Medium Blog post - So you want to visit Berlin? (https://medium.com/@aleksandraklofat/so-you-want-to-visit-berlin-143c309d58c6)
 
 ## Results
 
-Results are published in the following post on Medium
+Results are published in the following post on Medium (https://medium.com/@aleksandraklofat/so-you-want-to-visit-berlin-143c309d58c6)
 
 ## Acknowledgments & Licence
 
